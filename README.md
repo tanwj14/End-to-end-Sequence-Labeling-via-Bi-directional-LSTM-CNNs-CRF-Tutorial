@@ -1,3 +1,5 @@
+NTU NLP Assignment 2 built on top of this tutorial: https://colab.research.google.com/drive/1qMQOg8K4PfyOi_F4NGqOPsY4EFoO7PlI#scrollTo=inYotFmDj2us
+
 # End-to-end-Sequence-Labeling-via-Bi-directional-LSTM-CNNs-CRF-Tutorial
 
 This is a PyTorch tutorial for the ACL'16 paper 
